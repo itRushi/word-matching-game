@@ -1,5 +1,14 @@
 # 📝 Enhanced Word Match Game
 
+
+![Screenshot (1122)](https://github.com/user-attachments/assets/4c06d2d7-0389-425c-8cb1-d054d868f953)
+
+![Screenshot (1123)](https://github.com/user-attachments/assets/937e675e-6f7a-48b9-954a-d1ade041648f)
+
+
+
+
+
 An improved version of the classic word-matching game. It features multiple words, a timer, a score system, and an infinite mode where words keep coming back to challenge your typing skills!
 
 ## 🎯 Objective
